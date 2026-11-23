@@ -1,3 +1,4 @@
+- 2026-11-23: docs: clarified the quick start after user feedback
 # Changelog
 
 ### [Version&nbsp;1.9.3](https://github.com/ant-design/pro-chat/compare/v1.9.2...v1.9.3)
